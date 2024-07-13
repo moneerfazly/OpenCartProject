@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" thread-count="2" parallel="tests" >
+
+    <listeners>
+        <listener class-name="Utilities.ExtentReportManager"/>
+    </listeners>
+
+    <test  name="chrometest">
+        <parameter name="os" value="MacBook Pro"/>
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="testCases.TC001_AccountRegistrationTest">
+                <methods>
+                    <include name="accountRegistration"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+    <test  name="firefoxtest">
+        <parameter name="os" value="MacBook Pro"/>
+        <parameter name="browser" value="firefox"/>
+        <classes>
+            <class name="testCases.TC001_AccountRegistrationTest">
+                <methods>
+                    <include name="accountRegistration"/>
+                </methods>
+            </class>
+        </classes>
+    </test>
+
+
+</suite>

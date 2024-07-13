@@ -1,0 +1,21 @@
+2024-07-12 21:52:04 DEBUG TestNG:82 - suiteXmlPath: "/Users/mfazly/Documents/SDET_Projects/OpenCartProject/master.xml"
+2024-07-12 21:52:04 INFO  Utils:112 - [TestNG] Running:
+  /Users/mfazly/Documents/SDET_Projects/OpenCartProject/master.xml
+
+2024-07-12 21:52:08 DEBUG TC002_LoginTest:15 - ***** Starting TC002_LoginTest *****
+2024-07-12 21:52:09 DEBUG TC002_LoginTest:23 - ***** Login on user name and password *****
+2024-07-12 21:52:10 DEBUG TC002_LoginTest:40 - ***** Ending TC002_LoginTest *****
+2024-07-12 23:34:36 DEBUG TestNG:82 - suiteXmlPath: "/Users/mfazly/Documents/SDET_Projects/OpenCartProject/master.xml"
+2024-07-12 23:34:36 INFO  Utils:112 - [TestNG] Running:
+  /Users/mfazly/Documents/SDET_Projects/OpenCartProject/master.xml
+
+2024-07-12 23:34:40 DEBUG TC002_LoginTest:15 - ***** Starting TC002_LoginTest *****
+2024-07-12 23:34:41 DEBUG TC002_LoginTest:23 - ***** Login on user name and password *****
+2024-07-12 23:34:41 DEBUG TC002_LoginTest:40 - ***** Ending TC002_LoginTest *****
+2024-07-12 23:44:29 DEBUG TestNG:82 - suiteXmlPath: "/Users/mfazly/Documents/SDET_Projects/OpenCartProject/master.xml"
+2024-07-12 23:44:29 INFO  Utils:112 - [TestNG] Running:
+  /Users/mfazly/Documents/SDET_Projects/OpenCartProject/master.xml
+
+2024-07-12 23:44:33 DEBUG TC002_LoginTest:15 - ***** Starting TC002_LoginTest *****
+2024-07-12 23:44:33 DEBUG TC002_LoginTest:23 - ***** Login on user name and password *****
+2024-07-12 23:44:34 DEBUG TC002_LoginTest:40 - ***** Ending TC002_LoginTest *****
